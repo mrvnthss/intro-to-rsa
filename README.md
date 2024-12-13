@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-To get started right away, simply open the notebook in [Google Colab](https://colab.research.google.com/github/mrvnthss/intro-to-rsa/blob/main/intro-to-rsa.ipynb). Alternatively, follow these steps to clone the repository and run the project on your local machine.
+To get started right away, simply open the notebook in [Google Colab](https://colab.research.google.com/github/mrvnthss/intro-to-rsa/blob/main/intro-to-rsa.ipynb). Alternatively, follow the steps outlined below to clone the repository and run the project on your local machine.
 
 ### Prerequisites
 
